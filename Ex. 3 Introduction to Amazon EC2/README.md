@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Tanushree A
+* **Register Number**: 212223100057
+* **Date of Submission**: 27.02.2026
 
 ---
 
@@ -96,13 +96,16 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. Create an account on Amazon Web Services and log in to the AWS Management Console.
+
+2. Open the Amazon EC2 dashboard from the Services menu.
+
+3. Click Launch Instance and choose an Amazon Machine Image (AMI).
+
+4. Select an instance type (e.g., t2.micro), configure a key pair, and set up security group rules.
+
+5. Launch the instance and connect to it using SSH (Linux) or RDP (Windows).
 
 ---
 
@@ -110,19 +113,37 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/69642af0-bf23-48e7-b683-6adca25007cd" />
+
+
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e75fa987-c5e3-4ecc-9642-f0a67fe1e3fd" />
+
+
+
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e318ffc2-43ba-4084-846f-d9ad2cfb48e7" />
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0412ea31-c076-4f49-9b23-4b7a242cfe4c" />
+
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c4a96c65-77e2-440b-a051-39aeec93cee8" />
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f09a7281-9095-41d4-9b03-b3b6ec63faf8" />
+
 
 ---
 
