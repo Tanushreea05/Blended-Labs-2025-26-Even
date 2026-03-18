@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Tanushree A
+* **Register Number**: 212223100057
+* **Date of Submission**: 17.03.2026
 
 ---
 
@@ -82,13 +82,15 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
+1.Create RDS MySQL database using Easy Create
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+2.Configure settings (Public Access = YES, default VPC)
+
+3.Copy database Endpoint from RDS
+
+4.Open WebServer IP from AWS Details in browser
+
+5.Test Address Book (add, edit, delete contacts)
 
 ---
 
@@ -96,19 +98,25 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1bfd66e9-e598-47e8-93c9-0b861a458352" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/677d162c-ea73-4b94-a9cd-0c0ca6af76e4" />
+
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bdddd903-6a50-4ca9-9268-ce2b924bbb37" />
+
+
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e240a090-1195-4c43-b806-7411a775bf59" />
+
 
 ---
 
