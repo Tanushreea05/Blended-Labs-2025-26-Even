@@ -3,7 +3,13 @@
 ## Title
 
 Scale and Load Balance Your Architecture
-Author : your name   Reg no : yours   Date :
+
+
+Author : Tanushree A
+
+Reg no : 212223100057 
+
+Date : 17.03.2026
 
 ---
 
@@ -66,11 +72,48 @@ Students test the setup by generating traffic and observing automatic scaling an
 
 ## Workflow (To be filled by Student)
 
-Describe step-by-step how you performed this experiment in your own words.
+1.Create Launch Template
+
+2.Create Application Load Balancer
+
+3.Create Auto Scaling Group
+
+4.Configure Scaling Policy
+
+5.Test Load Balancing and Scaling
 
 ---
 
 ## Output Screenshots 
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/96257ca1-5b12-4ed0-a865-8d7996ab4baf" />
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/874bca70-fe0a-4cd9-8bec-8de2816eb295" />
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a8c5899c-43a9-46ae-9373-1fdeef44258f" />
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c9859fb1-c4e0-4353-83ad-72ed3c1a9db3" />
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/fbdfe506-5085-4195-9c35-c4f79f50755e" />
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3daacbe7-1491-4c88-bc90-dd63f500008a" />
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/871996cc-0422-4a51-ad8e-91eef568194d" />
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/778ae5dd-bb4a-4a9a-a14b-e295836747f1" />
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/91f55ad2-f753-41fb-9d70-bae169f315af" />
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7f315d5a-808a-4630-bcc0-17c88ac131ae" />
 
 
 ---
